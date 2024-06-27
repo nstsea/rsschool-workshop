@@ -1,3 +1,6 @@
 Some text to commit
-Changes from <master> -- new changes
+Changes from <master> 
+Changes from <first> branch
+
+Text from master: new changes!!!
 
