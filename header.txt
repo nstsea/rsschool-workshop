@@ -1,2 +1,2 @@
 Some text to commit
-
+Changes from <master>
