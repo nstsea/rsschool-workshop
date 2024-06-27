@@ -1,2 +1,3 @@
 Some text to commit
-Changes from <master>
+Changes from <master> -- new changes
+
